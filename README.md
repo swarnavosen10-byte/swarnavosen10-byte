@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:FF0000,100:111111&height=250&section=header&text=SWARNAVO%20SEN&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=CSE%20Student%20%7C%20Python%20Developer%20%7C%20Building%20MEDISYNC&descSize=18&descAlignY=57&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:FF0000,100:111111&height=260&section=header&text=SWARNAVO%20SEN&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=CSE%20Student%20%7C%20Python%20Developer%20%7C%20Building%20MEDISYNC&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Swarnavo Sen</h1>
 
 <h3 align="center">
-  CSE Student • Python Developer • OpenCV Learner • DSA Enthusiast
+  CSE Student • Python Developer • OpenCV Learner • DSA Enthusiast • Future Software Engineer
 </h3>
 
 <p align="center">
@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&color=FF0000&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;Python+Developer;OpenCV+Learner;Building+MEDISYNC;Future+Software+Engineer;DSA+Enthusiast;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&color=FF0000&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Python+Developer;OpenCV+Learner;Building+MEDISYNC;Future+Software+Engineer;DSA+Enthusiast;I+Build.+I+Learn.+I+Improve." />
 </p>
 
 ---
@@ -109,6 +109,18 @@
 
 ---
 
+## 🧠 Developer DNA
+
+```txt
+Name        : Swarnavo Sen
+Role        : CSE Student
+Focus       : Python, DSA, OpenCV, MEDISYNC
+Mindset     : Learn -> Build -> Debug -> Improve
+Goal        : Software Engineer
+```
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -143,10 +155,30 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swarnavosen10-byte/swarnavosen10-byte/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/swarnavosen10-byte/swarnavosen10-byte/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/swarnavosen10-byte/swarnavosen10-byte/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=swarnavosen10-byte&theme=radical&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" />
+</p>
+
+---
+
+## 💡 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
@@ -197,5 +229,5 @@ while(alive)
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:8B0000,100:FF0000&height=140&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:8B0000,100:FF0000&height=150&section=footer" width="100%" />
 </p>
