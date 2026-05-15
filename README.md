@@ -81,10 +81,20 @@
 
 # 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=swarnavosen10-byte&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF" />
-  
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarnavosen10-byte&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=swarnavosen10-byte&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&cache_seconds=1800" 
+    alt="Swarnavo's GitHub Stats" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarnavosen10-byte&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF&cache_seconds=1800" 
+    alt="Top Languages" 
+  />
 </p>
 
 ---
