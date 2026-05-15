@@ -13,6 +13,18 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/swarnavosen10-byte">
+    <img src="https://img.shields.io/badge/GitHub-swarnavosen10--byte-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/swarnavo-sen-b972983a4">
+    <img src="https://img.shields.io/badge/LinkedIn-Swarnavo%20Sen-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:swarnavosen10@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-swarnavosen10%40gmail.com-8B0000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&color=FF0000&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;Python+Developer;OpenCV+Learner;Building+MEDISYNC;Future+Software+Engineer;DSA+Enthusiast;Always+Learning+Something+New" />
 </p>
 
@@ -28,8 +40,20 @@
 - 🧠 Interested in **Software Development, AI, Computer Vision and Problem Solving**
 - ⚡ I love turning ideas into useful real-world projects
 - 🎯 Goal: Become a skilled **Software Engineer**
+- 🌱 Currently improving my **problem-solving and project-building skills**
 
 <br clear="right"/>
+
+---
+
+## 🎯 Current Focus
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Building-MEDISYNC-FF0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-DSA-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Exploring-OpenCV-8B0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Practicing-Python-FF0000?style=for-the-badge" />
+</p>
 
 ---
 
@@ -49,6 +73,12 @@
 - 📋 Medical records organization
 - 💊 Medicine and prescription support
 - 🔐 Secure and structured system design
+
+<p align="center">
+  <a href="https://github.com/swarnavosen10-byte">
+    <img src="https://img.shields.io/badge/View%20My%20Projects-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -143,7 +173,7 @@ while(alive)
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/swarnavo-sen-b972983a4">
     <img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
